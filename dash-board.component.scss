@@ -1,0 +1,126 @@
+.containerTitle{
+    display: flex;
+    margin-top:20px;
+    font-size:12px;
+    font-weight: bold;
+}
+.AddPatientTitleContainer{
+    display:flex;
+
+}
+.one{
+    flex:1;
+    padding:10px;
+}
+.addPatientBtnContainer{
+    flex:1;
+    background:#ffff;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+
+}
+.tableWrapper{
+    width:70px;
+    padding:20px;
+    background:#f6f6ff;
+}
+.addNewPatientBtn{
+    width:70px;
+    height:30px;
+    text-align:center;
+    line-height:28px;
+    color:white;
+    border-radius:5px;
+    background:red;
+    margin-top:18px;
+    cursor:pointer;
+    margin-bottom: 20px;
+}
+.addPatientTitleContainer{
+    background:white;
+    padding:20px 20px 0px 20px;
+    font-size:20px;
+    font-weight:bold;
+    font-style:italic;
+    border-top-left-radius:10px;
+    border-bottom-left-radius:10px;
+}
+.updatePatientTitleContainer{
+    background:#f6f6ff;
+    padding:20px 20px 0px 20px;
+    font-size:22px;
+    font-weight:bold;
+    font-style:italic;
+    border-top-left-radius:10px;
+
+}
+.oneTitle{
+    flex:1;
+    padding:10px;
+    background:whitesmoke;
+    color:grey;
+}
+.name{
+    padding:0px 15px 15px 20px;
+    background:white;
+
+}
+.position{
+    background:#f6f6ff;
+    padding:0px 15px 15px 20px;
+}
+.input{
+    border:none;
+    height:32px;
+    padding-left:10px;
+    width:60%;
+    border-radius:5px;
+
+}
+.positionInput{
+    border:none;
+    height:32px;
+    padding-left:10px;
+    width:60%;
+    border-radius:5px;
+}
+.saveBtn{
+    background: green;
+    color:white;
+    border:none;
+    width:70px;
+    height:30px;
+    cursor:pointer;
+    border-radius:3px;
+
+}
+.submitBtnContainer{
+    background:white;
+    padding:0px 0px 20px 20px;
+
+}
+.two{
+    flex:1;
+    padding:2px;
+
+}
+.twoTitle{
+    flex:1;
+    padding:10px;
+    background:#444444;
+    color:#f6f6ff;
+}
+.three{
+    flex:1;
+    padding:10px;
+
+}
+.threeTitle{
+    flex:1;
+    padding:10px;
+    background:#444444;
+    color:#f6f6ff;
+}
+.containerListItems{
+    display:flex;
+}
